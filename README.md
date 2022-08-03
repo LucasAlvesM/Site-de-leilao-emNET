@@ -1,4 +1,4 @@
-# Sistema de Leilão em .NET com CRUD.
+# Web App Leilão em .NET com CRUD.
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20ANDAMENTO&color=RED&style=for-the-badge"/>
 </p>
@@ -22,19 +22,11 @@
 ## Descrição do projeto 
 
 <p align="justify">
- Sistema de Estacionamento desenvolvido no curso de Testes de Software em .NET com xUnit
-
-O sistema permitirá o controle de entradas e saidas de veículos em um estacionamento bem como faturamento e tempo de permanencia.
+ Sistema de leilão desenvolvido no curso de Testes C# Conceitos SOLID - `Alura`
 
 ## Funcionalidades
 
-:heavy_check_mark: `Funcionalidade 1:` Registrar Entrada de Veículos.
-
-:heavy_check_mark: `Funcionalidade 2:` Registrar Saída de Veículos.
-
-:heavy_check_mark: `Funcionalidade 3:` Exibir Faturamento do Estacionamento.
-
-:heavy_check_mark: `Funcionalidade 4:` Exibir Automóveis estacionados.
+:heavy_check_mark: `Funcionalidade:` Pesquisar leilão.
 
 ## Aplicação
 
@@ -42,19 +34,19 @@ O sistema permitirá o controle de entradas e saidas de veículos em um estacion
 
 
 ## Tela Inicial
-![Tela Inicial](https://github.com/LucasAlvesM/Sistema-Estacionamento-com-testes-em-xUnit/blob/main/.ideia/telaSistema1.png)
+![Tela Inicial](https://github.com/LucasAlvesM/Site-de-leilao-emNET/blob/main/.ideia/telainicial.png)
    
-## Registrando entrada do Veículo
-![Tela Entrada](https://github.com/LucasAlvesM/Sistema-Estacionamento-com-testes-em-xUnit/blob/main/.ideia/telaRegistro.png)
+## Leilões
+![Tela leilões](https://github.com/LucasAlvesM/Site-de-leilao-emNET/blob/main/.ideia/Leiloes.png)
    
-## Registrando saída do Veículo
-![Tela Saida](https://github.com/LucasAlvesM/Sistema-Estacionamento-com-testes-em-xUnit/blob/main/.ideia/telaSaida.png)
+## Footer
+![Tela footer](https://github.com/LucasAlvesM/Site-de-leilao-emNET/blob/main/.ideia/footer.png)
    
-## Exibindo Faturamento
-![Tela Faturamento](https://github.com/LucasAlvesM/Sistema-Estacionamento-com-testes-em-xUnit/blob/main/.ideia/telaFaturamento.png)
+## Pesquisa de Leilão   
+![Tela pesquisa](https://github.com/LucasAlvesM/Site-de-leilao-emNET/blob/main/.ideia/pesquisaleilao.png)
    
-## Mostrando Veículos estacionados
-![Tela Estacionados](https://github.com/LucasAlvesM/Sistema-Estacionamento-com-testes-em-xUnit/blob/main/.ideia/telaEstacionados.png)
+## Leilão pesquisado
+![Tela leilao](https://github.com/LucasAlvesM/Site-de-leilao-emNET/blob/main/.ideia/leilaojogos.png)
 
   </div>
 
@@ -68,7 +60,7 @@ O sistema permitirá o controle de entradas e saidas de veículos em um estacion
 
 ## 📁 Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto](https://github.com/LucasAlvesM/Sistema-Estacionamento-com-testes-em-xUnit).
+Você pode [acessar o código fonte do projeto](https://github.com/LucasAlvesM/Site-de-leilao-emNET).
 
 ## 🛠️ Abrir e rodar o projeto
 
